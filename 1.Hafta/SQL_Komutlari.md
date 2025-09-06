@@ -1,4 +1,4 @@
-# 📚 SQL Veri Tabanı ve Temel Komutlar
+#  SQL Veri Tabanı ve Temel Komutlar
 
 **SQL (Structured Query Language)**, veritabanı yönetiminde kullanılan standart bir dildir.  
 
