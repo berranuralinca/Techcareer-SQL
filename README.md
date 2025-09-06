@@ -1,4 +1,4 @@
-# Techcareer Veri Bilimi Yaz Kampı 🚀✨
+# Techcareer SQL EĞİTİMİ 🚀✨
 
 ![Proje Görseli](https://github.com/berranuralinca/berranuralinca/raw/main/assets/SQL.jpg)
 
