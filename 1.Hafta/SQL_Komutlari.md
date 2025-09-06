@@ -9,6 +9,7 @@ Yeni bir veritabanı oluşturmak için `CREATE DATABASE` komutu kullanılır.
 
 ```sql
 CREATE DATABASE EMPLOYEES;
+```
 
 ## 2.Tablo Oluşturma
 CREATE TABLE komutu ile veritabanında yeni bir tablo tanımlanır.
@@ -20,7 +21,7 @@ CREATE TABLE USERS (
   user_lastname NVARCHAR(50),  
   age INT
 );;
-
+```
 - id: INT tipinde, otomatik artan (IDENTITY) ve birincil anahtar (PRIMARY KEY) özelliğine sahip bir sütundur.
 
 - ad, soyad: NVARCHAR(50) tipinde, yani en fazla 50 karakter uzunluğunda metin alanıdır.
